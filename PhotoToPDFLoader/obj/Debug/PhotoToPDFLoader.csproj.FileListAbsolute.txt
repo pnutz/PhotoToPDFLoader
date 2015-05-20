@@ -1,0 +1,3 @@
+C:\Users\ceng\Documents\Visual Studio 2012\Projects\PhotoToPDFLoader\PhotoToPDFLoader\bin\Debug\WastechPhotoPDFLoader.exe.config
+C:\Users\ceng\Documents\Visual Studio 2012\Projects\PhotoToPDFLoader\PhotoToPDFLoader\obj\Debug\WastechPhotoPDFLoader.exe
+C:\Users\ceng\Documents\Visual Studio 2012\Projects\PhotoToPDFLoader\PhotoToPDFLoader\obj\Debug\WastechPhotoPDFLoader.pdb

@@ -1,0 +1,10 @@
+c:\users\ceng\documents\visual studio 2012\Projects\WastechPhotoPDFLoader\WastechPhotoPDFLoader\bin\Debug\WastechPhotoPDFLoader.exe.config
+c:\users\ceng\documents\visual studio 2012\Projects\WastechPhotoPDFLoader\WastechPhotoPDFLoader\bin\Debug\WastechPhotoPDFLoader.exe
+c:\users\ceng\documents\visual studio 2012\Projects\WastechPhotoPDFLoader\WastechPhotoPDFLoader\bin\Debug\WastechPhotoPDFLoader.pdb
+c:\users\ceng\documents\visual studio 2012\Projects\WastechPhotoPDFLoader\WastechPhotoPDFLoader\obj\Debug\WastechPhotoPDFLoader.Form1.resources
+c:\users\ceng\documents\visual studio 2012\Projects\WastechPhotoPDFLoader\WastechPhotoPDFLoader\obj\Debug\WastechPhotoPDFLoader.Properties.Resources.resources
+c:\users\ceng\documents\visual studio 2012\Projects\WastechPhotoPDFLoader\WastechPhotoPDFLoader\obj\Debug\WastechPhotoPDFLoader.csproj.GenerateResource.Cache
+c:\users\ceng\documents\visual studio 2012\Projects\WastechPhotoPDFLoader\WastechPhotoPDFLoader\obj\Debug\WastechPhotoPDFLoader.exe
+c:\users\ceng\documents\visual studio 2012\Projects\WastechPhotoPDFLoader\WastechPhotoPDFLoader\obj\Debug\WastechPhotoPDFLoader.pdb
+c:\users\ceng\documents\visual studio 2012\Projects\WastechPhotoPDFLoader\WastechPhotoPDFLoader\bin\Debug\PdfSharp.dll
+C:\Users\ceng\Documents\Visual Studio 2012\Projects\WastechPhotoPDFLoader\WastechPhotoPDFLoader\obj\Debug\WastechPhotoPDFLoader.csprojResolveAssemblyReference.cache
